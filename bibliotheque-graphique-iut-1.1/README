@@ -1,0 +1,8 @@
+1) utiliser le script configure pour generer les Makefiles
+	./configure
+
+	Par defaut, l'installation se fait dans /usr. Utiliser --prefix pour le modifier.
+	autres options : --enable-xpm et --enable-exemples
+
+2) make, make install, make clean, make uninstall pour compiler, installer, nettoyeri, désinstaller.
+
