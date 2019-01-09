@@ -2,7 +2,9 @@
 
   Voici le projet 2018 : Memory of Legends.
   
----------=== Pour installer la bibliothéque graphique ===-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+---------=== Pour installer la bibliothéque graphique===--------------------------------------------------------------------------
    
 1. Lancer le script configure pour préparer la compilation et l'installation : : ./configure --prefix=/usr --disable-exemples
 
@@ -15,7 +17,7 @@ Faire configure --help pour avoir la liste de toutes les options.
 
 3. Lancez make uninstall pour la désinstallation.
 
----------=== Pour lancer le jeu ===-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------=== Pour lancer le jeu===--------------------------------------------------------------------------
 
 1) make: pour compiler
 2) make clean: pour nettoyer.
